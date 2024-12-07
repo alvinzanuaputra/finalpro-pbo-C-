@@ -69,4 +69,5 @@ public class LoadingManager : MonoBehaviour
         if (timer >= 10f){
             SceneManager.LoadScene(1);
         }
-   
+    }
+}
